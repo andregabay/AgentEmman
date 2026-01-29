@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
-  <dc:creator>SMRI-RPADev4</dc:creator>
-  <dc:description>The frame work to add the full file path names to the Orchestrator Queue for BuySell Du Automation.</dc:description>
-  <dc:identifier>RPA-0002_GCASH_BankPaymentFiles</dc:identifier>
-  <version>1.0.15</version>
-  <keywords>VisualBasic VB UiPathStudioProcess</keywords>
-  <lastModifiedBy>NuGet.Packaging, Version=6.3.3.3, Culture=neutral, PublicKeyToken=31bf3856ad364e35;.NET 5.0</lastModifiedBy>
-</coreProperties>
